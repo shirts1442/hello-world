@@ -1,4 +1,11 @@
-.fa-ol{
+@media (min-width:768px){
+    .my-title{
+        font-size:60px;
+    }
 }
-.fa-ul{
+@media (max-width:768px){
+    .my-title{
+        font-size:20px;
+        color:orangered;
+    }
 }
